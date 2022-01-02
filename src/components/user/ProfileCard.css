@@ -1,0 +1,7 @@
+.profile__container {
+    margin: 20px;
+    width: 600px;
+    display: flex;
+    gap: 20px;
+    font-family: "Poppins", sans-serif;
+}

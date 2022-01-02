@@ -1,0 +1,30 @@
+.headings__container {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.headings__container span {
+    background-color: #ecfef4;
+    color: #74c98f;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.headings__username {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.bluecheckmark__container {
+    width: 20px;
+    height: 20px;
+}
+
+.bluecheckmark__container img {
+    width: 100%;
+    height: 100%;
+}

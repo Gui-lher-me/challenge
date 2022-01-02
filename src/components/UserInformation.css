@@ -1,0 +1,11 @@
+.user_info {
+    display: flex;
+    gap: 15px;
+}
+
+.user_info span {
+    margin: 6px 0;
+    font-size: 14px;
+    color: lightgrey;
+    font-weight: 500;
+}
